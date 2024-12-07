@@ -16,11 +16,11 @@ right: 0%;
 }
 @font-face {
     font-family: "Caveat Brush";
-    src: url(/Fonts/Caveat_Brush/CaveatBrush-Regular.ttf);
+    src: url(/DiciembreLore/Fonts/Caveat_Brush/CaveatBrush-Regular.ttf);
 }
 @font-face {
     font-family: "Rounded";
-    src: url(/Fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-ExtraBold.ttf);
+    src: url(/DiciembreLore/Fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-ExtraBold.ttf);
 }
 
 h1 {
